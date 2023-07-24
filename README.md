@@ -78,10 +78,10 @@ it means that the content is not available yet and will be uploaded later.
 
 ---
 
-### [01 - Machine learning](01_machine_learning.pdf)
+### [01 - Creative machine learning](01_creative_machine_learning.pdf)
 
-[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vQiFd_QE7kW1OK2q4tFOtTtXXidXqrNNRDW6-sHp_KhqBa0j2dOvBTgyah-XULhDSSMwZIJvCy0SFQ8/pub?start=false&loop=false&delayms=10000) 
-[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](01_machine_learning.pdf) 
+[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vT5O2dGSyQT2CTwXHM1HVDsunzskacJ6LhJBUMUbLRRg4C34krOSzqf8y75YD19QQrWfvBJypKlHd1Z/pub?start=false&loop=false&delayms=60000) 
+[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](01_creative_machine_learning.pdf) 
 [![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1O38voJUpBlvynWJGt8m_gBUMq_LUeMO1?usp=sharing) 
 [![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](01a_machine_learning.ipynb) 
     
@@ -89,56 +89,57 @@ it means that the content is not available yet and will be uploaded later.
 This course provides a brief history of the development of artificial intelligence and introduces the general concepts of machine learning 
 through a series of recent applications in the creative fields. This course also presents the pre-requisites, course specificities, toolboxes
 and tutorials that will be covered and how to setup the overall environment.
-This course introduces the formal notions required to understand machine learning along with classic problems of linear models 
+Finally, we introduce the formal notions required to understand machine learning along with classic problems of linear models 
 for regression and classification. We discuss the mathematical derivation for optimization and various problems of overfitting, cross-validation
 and model properties and complexity that are still quintessential in modern machine learning.
+We finish with a quick roundup of how to use existing deep models on GitHub.
 
-**Additional notebook on feature-based learning**
-
-[![Colab](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=googlecolab)]() 
-[![Notebook](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=jupyter)](01b_feature_based_learning.ipynb) 
 
 ---
 
-### [02 - Neural networks](02_neural_networks.pdf)
+### [02 - Using and developing deep models](02_deep_models.pdf)
 
-[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRWEyOd3sR1T9Ruc4c3mBq4I3B80l7mS3wwZubWEUINYolJkWlyrNnfqRovw6a7Fbhw1a4xWggTuhZV/pub?start=false&loop=false&delayms=60000) 
-[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](02_neural_networks.pdf) 
+[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRC4PpmQEgr0c6M7REkh_--slZA7xYXjZiS1MBjUbyUBBq-u10dDyzPoLKxlNXma4dd_YQC-JlnXOrw/pub?start=false&loop=false&delayms=60000) 
+[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](02_deep_models.pdf) 
 [![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1PE2WFYL3fRao1JNQV9pnkAk2AbNc3z8y?usp=sharing) 
 [![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](02_neural_networks.ipynb) 
 
 This course provides a brief history of the development of neural networks along with all mathematical and implementation details. 
 We discuss geometric perspectives on neurons and gradient descent and how these interpretation naturally extend to the case
-of multi-layer perceptrons. Finally, we discuss the complete implementation of backpropagation through micro-grad.
-
+of multi-layer perceptrons. We further introduce more advanced types of neural networks such as convolutional and recurrent architectures, along
+with more advanced models (LSTM, GRU) and recent developments such as residual architectures.
+We further discuss issues of regularization and initialization in networks.
+Finally, we finish this course by discussing the recent attention mechanism and transformer architectures and
+provide a set of modern applications.
 
 ---
 
-### [03 - Advanced neural networks](03_advanced_networks.pdf)
+### [03 - Embedding deep models in Max4Live](03_embedding_maxmsp.pdf)
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vTRtjopz1JOL1Tte1TyPL3QADCMdk2Wz39iHw_vWjeCR9fS_qtkoxgoF3jOBoECQVIqn0_RxzV9uBr2/pub?start=false&loop=false&delayms=60000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](03_advanced_networks.pdf) 
 [![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1OK7I0vHDwi-PNX3orxDKO_46v7WeDBBP?usp=sharing) 
 [![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](03_advanced_networks.ipynb) 
 
-In this course we introduce more advanced types of neural networks such as convolutional and recurrent architectures, along
-with more advanced models (LSTM, GRU) and recent developments such as residual architectures.
-We further discuss issues of regularization and initialization in networks.
+In this course, we will discuss how to embed existing deep models into MaxMSP. 
+In order to capitalize on existing body of work in ML research, we will seek to run the model from Python (as most research is being done in this language).
+Hence, we will first discuss OSC communication and how to setup an OSC protocol and exchange between MaxMSP and Python.
+We briefly introduce the basics of Max4Live devices and show how to use these through the case study of the [FlowSynth](https://github.com/acids-ircam/flow_synthesizer) AI-based synthesizer control.
 
 ---
 
-### [04 - Deep learning](04_deep_learning.pdf)
+### [04 - Developing AI-based externals](04_deep_learning.pdf)
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vTbg6NR7B92Db4fqcX1JWfW3eDhaR98OqHhv_OmuICo0q_TwbqQE_iD7wAvwl4HxH-IA1Ag3bLbKQWJ/pub?start=false&loop=false&delayms=60000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](04_deep_learning.pdf) 
 [![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1-OGz_vn-4gSa6jm5J6iXv_06X6dgKugq?usp=sharing) 
 [![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](04_deep_learning.ipynb) 
 
-We introduce here the fundamental shift towards deep learning, notably through the development of layerwise training 
-and auto-encoders. We discuss how these are now less relevant through novel regularization methods and data availability.
-We finish this course by discussing the recent attention mechanism and transformer architectures and
-provide a set of modern applications.
-
+In this course, we go further in how we can potentially embed existing deep models into MaxMSP. 
+One of the key problem of the previous method (OSC and Python) resides in the lack of computational efficiency.
+Hence, we seek here to learn how to develop our own externals. We provide an introduction to the Max SDK in order to develop our own externals in C.
+We further discuss the Torchscript and Tensorflow Lite interfaces that allow to embed Python models into efficient C codes.
+We show how to use these skills through the case study of the [RAVE](https://github.com/acids-ircam/rave) real-time deep audio generation.
 
 ---
 
