@@ -11,7 +11,7 @@
 
 
 <center>
-<i>Course given both at the <a href="https://maxsummer2023.geidai.ac.jp/" target="_blank">MaxMSP summer school</a> (Tokyo university of the arts, Japan)</i><br/>
+<i>Course given at the <a href="https://maxsummer2023.geidai.ac.jp/" target="_blank">MaxMSP summer school</a> (Tokyo university of the arts, Japan)</i><br/>
 <b>Professor</b>: <a href="http://esling.github.io" target="_blank">Philippe Esling</a>
 </center>
 
@@ -33,7 +33,7 @@ However, we do recommend to fork the entire environment and follow the interacti
 own coding environment.
 
 **This course is meant to be only an introduction to all of these complex ideas.**
-**We highly recommend to follow the companion "[Creative Machine Learning](http://www.github.com/acids-ircam/creative_ml" course to truly acheive mastery of deep models development**.
+**We highly recommend to follow the companion "[Creative Machine Learning](http://www.github.com/acids-ircam/creative_ml)" course to truly acheive mastery of deep models development**.
 
 
 <details>
