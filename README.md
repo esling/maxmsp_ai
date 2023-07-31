@@ -78,10 +78,10 @@ it means that the content is not available yet and will be uploaded later.
 
 ---
 
-### [01 - Creative machine learning](01_creative_machine_learning.pdf)
+### [01 - Creative machine learning](https://docs.google.com/presentation/d/e/2PACX-1vT5O2dGSyQT2CTwXHM1HVDsunzskacJ6LhJBUMUbLRRg4C34krOSzqf8y75YD19QQrWfvBJypKlHd1Z/pub?start=false&loop=false&delayms=60000)
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vT5O2dGSyQT2CTwXHM1HVDsunzskacJ6LhJBUMUbLRRg4C34krOSzqf8y75YD19QQrWfvBJypKlHd1Z/pub?start=false&loop=false&delayms=60000) 
-[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](01_creative_machine_learning.pdf) 
+[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](https://nubo.ircam.fr/index.php/s/p9HEpNy5yYWtQyy) 
     
     
 This course provides a brief history of the development of artificial intelligence and introduces the general concepts of machine learning 
@@ -95,10 +95,10 @@ We finish with a quick roundup of how to use existing deep models on GitHub.
 
 ---
 
-### [02 - Using and developing deep models](02_deep_models.pdf)
+### [02 - Using and developing deep models](https://docs.google.com/presentation/d/e/2PACX-1vRC4PpmQEgr0c6M7REkh_--slZA7xYXjZiS1MBjUbyUBBq-u10dDyzPoLKxlNXma4dd_YQC-JlnXOrw/pub?start=false&loop=false&delayms=60000)
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRC4PpmQEgr0c6M7REkh_--slZA7xYXjZiS1MBjUbyUBBq-u10dDyzPoLKxlNXma4dd_YQC-JlnXOrw/pub?start=false&loop=false&delayms=60000) 
-[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](02_deep_models.pdf) 
+[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](https://nubo.ircam.fr/index.php/s/3nsrd7TM7yzL8RL) 
 
 This course provides a brief history of the development of neural networks along with all mathematical and implementation details. 
 We discuss geometric perspectives on neurons and gradient descent and how these interpretation naturally extend to the case
