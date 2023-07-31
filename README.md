@@ -101,8 +101,6 @@ We finish with a quick roundup of how to use existing deep models on GitHub.
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRC4PpmQEgr0c6M7REkh_--slZA7xYXjZiS1MBjUbyUBBq-u10dDyzPoLKxlNXma4dd_YQC-JlnXOrw/pub?start=false&loop=false&delayms=60000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](02_deep_models.pdf) 
-[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1PE2WFYL3fRao1JNQV9pnkAk2AbNc3z8y?usp=sharing) 
-[![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](02_neural_networks.ipynb) 
 
 This course provides a brief history of the development of neural networks along with all mathematical and implementation details. 
 We discuss geometric perspectives on neurons and gradient descent and how these interpretation naturally extend to the case
@@ -118,8 +116,6 @@ provide a set of modern applications.
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vTRtjopz1JOL1Tte1TyPL3QADCMdk2Wz39iHw_vWjeCR9fS_qtkoxgoF3jOBoECQVIqn0_RxzV9uBr2/pub?start=false&loop=false&delayms=60000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](03_advanced_networks.pdf) 
-[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1OK7I0vHDwi-PNX3orxDKO_46v7WeDBBP?usp=sharing) 
-[![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](03_advanced_networks.ipynb) 
 
 In this course, we will discuss how to embed existing deep models into MaxMSP. 
 In order to capitalize on existing body of work in ML research, we will seek to run the model from Python (as most research is being done in this language).
@@ -132,8 +128,6 @@ We briefly introduce the basics of Max4Live devices and show how to use these th
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vTbg6NR7B92Db4fqcX1JWfW3eDhaR98OqHhv_OmuICo0q_TwbqQE_iD7wAvwl4HxH-IA1Ag3bLbKQWJ/pub?start=false&loop=false&delayms=60000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](04_deep_learning.pdf) 
-[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1-OGz_vn-4gSa6jm5J6iXv_06X6dgKugq?usp=sharing) 
-[![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](04_deep_learning.ipynb) 
 
 In this course, we go further in how we can potentially embed existing deep models into MaxMSP. 
 One of the key problem of the previous method (OSC and Python) resides in the lack of computational efficiency.
