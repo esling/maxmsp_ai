@@ -82,8 +82,6 @@ it means that the content is not available yet and will be uploaded later.
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vT5O2dGSyQT2CTwXHM1HVDsunzskacJ6LhJBUMUbLRRg4C34krOSzqf8y75YD19QQrWfvBJypKlHd1Z/pub?start=false&loop=false&delayms=60000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](01_creative_machine_learning.pdf) 
-[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1O38voJUpBlvynWJGt8m_gBUMq_LUeMO1?usp=sharing) 
-[![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](01a_machine_learning.ipynb) 
     
     
 This course provides a brief history of the development of artificial intelligence and introduces the general concepts of machine learning 
