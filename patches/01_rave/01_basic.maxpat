@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 59.0, 119.0, 853.0, 480.0 ],
+		"rect" : [ 723.0, 120.0, 1148.0, 739.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -118,7 +118,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 18.0, 87.0, 93.5, 50.0 ],
 					"size" : 3,
-					"value" : 2
+					"value" : 0
 				}
 
 			}
@@ -273,7 +273,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 138.0, 164.0, 131.0, 22.0 ],
+					"patching_rect" : [ 138.0, 164.0, 126.0, 22.0 ],
 					"text" : "nn~ darbouka forward"
 				}
 
