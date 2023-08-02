@@ -112,7 +112,7 @@ provide a set of modern applications.
 
 ### [03 - Embedding deep models in Max4Live](03_embedding_maxmsp.pdf)
 
-[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRMJDveCOO0EkjLTf_x8usNAOcvVaGq6VdwXy3d6GKCnXFgJumYb2r27qp7RmFCmnr9P8NFxRHWnqF9/pub?start=false&loop=false&delayms=3000) 
+[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vSVhSnx_dazxBS-PuLaG5Xz9DMC7IT5VM4t3xBhxgrtjjKiDJ8lZntirwDuiIfuhhB6OhYIdnwG5Ucn/pub?start=false&loop=false&delayms=3000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](03_advanced_networks.pdf) 
 
 In this course, we will discuss how to embed existing deep models into MaxMSP. 
@@ -124,7 +124,7 @@ We briefly introduce the basics of Max4Live devices and show how to use these th
 
 ### [04 - Developing AI-based externals](04_deep_learning.pdf)
 
-[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vTbg6NR7B92Db4fqcX1JWfW3eDhaR98OqHhv_OmuICo0q_TwbqQE_iD7wAvwl4HxH-IA1Ag3bLbKQWJ/pub?start=false&loop=false&delayms=60000) 
+[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRMJDveCOO0EkjLTf_x8usNAOcvVaGq6VdwXy3d6GKCnXFgJumYb2r27qp7RmFCmnr9P8NFxRHWnqF9/pub?start=false&loop=false&delayms=3000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](04_deep_learning.pdf) 
 
 In this course, we go further in how we can potentially embed existing deep models into MaxMSP. 
