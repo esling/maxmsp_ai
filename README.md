@@ -80,7 +80,7 @@ it means that the content is not available yet and will be uploaded later.
 
 ### [01 - Creative machine learning](https://docs.google.com/presentation/d/e/2PACX-1vT5O2dGSyQT2CTwXHM1HVDsunzskacJ6LhJBUMUbLRRg4C34krOSzqf8y75YD19QQrWfvBJypKlHd1Z/pub?start=false&loop=false&delayms=60000)
 
-[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRMJDveCOO0EkjLTf_x8usNAOcvVaGq6VdwXy3d6GKCnXFgJumYb2r27qp7RmFCmnr9P8NFxRHWnqF9/pub?start=false&loop=false&delayms=3000) 
+[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vT5O2dGSyQT2CTwXHM1HVDsunzskacJ6LhJBUMUbLRRg4C34krOSzqf8y75YD19QQrWfvBJypKlHd1Z/pub?start=false&loop=false&delayms=60000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](https://nubo.ircam.fr/index.php/s/p9HEpNy5yYWtQyy) 
     
     
@@ -112,7 +112,7 @@ provide a set of modern applications.
 
 ### [03 - Embedding deep models in Max4Live](03_embedding_maxmsp.pdf)
 
-[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vTRtjopz1JOL1Tte1TyPL3QADCMdk2Wz39iHw_vWjeCR9fS_qtkoxgoF3jOBoECQVIqn0_RxzV9uBr2/pub?start=false&loop=false&delayms=60000) 
+[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRMJDveCOO0EkjLTf_x8usNAOcvVaGq6VdwXy3d6GKCnXFgJumYb2r27qp7RmFCmnr9P8NFxRHWnqF9/pub?start=false&loop=false&delayms=3000) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](03_advanced_networks.pdf) 
 
 In this course, we will discuss how to embed existing deep models into MaxMSP. 
