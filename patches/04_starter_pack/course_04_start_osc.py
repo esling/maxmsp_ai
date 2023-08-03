@@ -9,6 +9,23 @@ from pythonosc import osc_server
 from pythonosc import dispatcher
 from pythonosc import udp_client
 
+# OSC decorator
+def osc_parse(func):
+    '''decorates a python function to automatically transform args and kwargs coming from Max'''
+    def func_embedding(address, *args):
+        t_args = tuple(); kwargs = {}
+        for a in args:
+            if issubclass(type(a), str):
+                if "=" in a:
+                    key, value = a.split("=")
+                    kwargs[key] = value
+                else:
+                    t_args = t_args + (a,)
+            else:
+                t_args = t_args + (a,)
+        return func(*t_args, **kwargs)
+    return func_embedding
+
 class OSCServer():
 
     def __init__(self, in_port, out_port, ip="127.0.0.1", *args):
