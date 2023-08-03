@@ -110,10 +110,10 @@ provide a set of modern applications.
 
 ---
 
-### [03 - Embedding deep models in Max4Live](03_embedding_maxmsp.pdf)
+### [03 - Embedding deep models in Max4Live](https://nubo.ircam.fr/index.php/s/mWZ9gcEt9Qgopa7)
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vSVhSnx_dazxBS-PuLaG5Xz9DMC7IT5VM4t3xBhxgrtjjKiDJ8lZntirwDuiIfuhhB6OhYIdnwG5Ucn/pub?start=false&loop=false&delayms=3000) 
-[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](03_advanced_networks.pdf) 
+[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](https://nubo.ircam.fr/index.php/s/mWZ9gcEt9Qgopa7) 
 
 In this course, we will discuss how to embed existing deep models into MaxMSP. 
 In order to capitalize on existing body of work in ML research, we will seek to run the model from Python (as most research is being done in this language).
@@ -122,10 +122,10 @@ We briefly introduce the basics of Max4Live devices and show how to use these th
 
 ---
 
-### [04 - Developing AI-based externals](04_deep_learning.pdf)
+### [04 - Developing AI-based externals](https://nubo.ircam.fr/index.php/s/Yi66YqgZMBNySqF)
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRMJDveCOO0EkjLTf_x8usNAOcvVaGq6VdwXy3d6GKCnXFgJumYb2r27qp7RmFCmnr9P8NFxRHWnqF9/pub?start=false&loop=false&delayms=3000) 
-[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](04_deep_learning.pdf) 
+[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](https://nubo.ircam.fr/index.php/s/Yi66YqgZMBNySqF) 
 
 In this course, we go further in how we can potentially embed existing deep models into MaxMSP. 
 One of the key problem of the previous method (OSC and Python) resides in the lack of computational efficiency.
